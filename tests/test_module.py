@@ -1,6 +1,6 @@
 import unittest
 
-from logistic.module import add
+from goodlogistic.module import add
 
 
 class TestModule(unittest.TestCase):
