@@ -11,10 +11,8 @@ Toolkit for logistic problem, designed for real challenges Nonprofit organizatio
 
 
 It provides:
-
 ----------------------
 
-Guide
 
 [Guide](https://opensource.guide/how-to-contribute/)
 
