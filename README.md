@@ -1,20 +1,18 @@
-# logistic
+# Good logistic
 Repository for logistic solutions
 
-Toolkit for logistic problem, designed for real challenges Nonprofit organization.
+Toolkit for logistic problem, designed for real challenges organization.
 
 [![Powered by daftar.digital](https://img.shields.io/badge/powered%20by-daftar.digital-orange.svg?style=flat&logo=gravatar)](https://daftar.digital)
 
-[![codecov](https://codecov.io/github/RodrigoSantosRodrigues/logistic/graph/badge.svg?token=IGAGLZ49LI)](https://codecov.io/github/RodrigoSantosRodrigues/logistic)
+[![codecov](https://codecov.io/github/RodrigoSantosRodrigues/goodlogistic/graph/badge.svg?token=IGAGLZ49LI)](https://codecov.io/github/RodrigoSantosRodrigues/goodlogistic)
 
-![alt text](https://codecov.io/github/RodrigoSantosRodrigues/logistic/graphs/sunburst.svg?token=IGAGLZ49LI)
+![alt text](https://codecov.io/github/RodrigoSantosRodrigues/goodlogistic/graphs/sunburst.svg?token=IGAGLZ49LI)
 
 
 It provides:
-
 ----------------------
 
-Guide
 
 [Guide](https://opensource.guide/how-to-contribute/)
 
@@ -97,10 +95,10 @@ https://peps.python.org/pep-0008/
 - **Description:** Toolkit for logistic problem, designed for real challenges Nonprofit organization.
 - **Author:** contato@daftar.digital, contato@goodtruck.org.br
 - **Published:** Sat, 06 Jul 2024 20:26:26 GMT
-- **Link:** [0.1](https://pypi.org/project/logistic/0.1.0/)
+- **Link:** [0.1](https://pypi.org/project/goodlogistic/0.1.0/)
 
 - **Website:** https://daftar.digital
 - **Documentation:** https://daftar.digital/doc
-- **Source code:** https://github.com/daftar/logistic
-- **Contributing:** https://daftar/logistic/dev/index.html
-- **Bug reports:** https://github.com/daftar/logistic/issues
+- **Source code:** https://github.com/daftar/goodlogistic
+- **Contributing:** https://daftar/goodlogistic/dev/index.html
+- **Bug reports:** https://github.com/daftar/goodlogistic/issues
